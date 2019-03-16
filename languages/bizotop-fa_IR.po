@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-03-11 18:04+0330\n"
+"PO-Revision-Date: 2019-03-11 18:04+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-bizotop-options.php:15
+msgid "API Key"
+msgstr "کلید API"
+
+#: wp-bizotop-options.php:15
+msgid "Enter your own API Key here"
+msgstr "کلید API مخصوص به خود را در اینجا وارد کنید"
+
+#: wp-bizotop-options.php:16
+msgid "API Host"
+msgstr "میزبان API ( سرور )"
+
+#: wp-bizotop-options.php:16
+msgid "Like: https://api.example.com"
+msgstr "مثال: https://api.example.com"
+
+#: wp-bizotop-options.php:20
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: wp-bizotop-options.php:21
+msgid "Bizotop"
+msgstr "بیزوتاپ"
+
+#: wp-bizotop-options.php:76
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: wp-bizotop-widget.php:10
+msgid "Bizotop Widget"
+msgstr "ابزارک بیزوتاپ"
+
+#: wp-bizotop-widget.php:40
+msgid "Link Text"
+msgstr "متن لینک"
+
+#: wp-bizotop-widget.php:44
+msgid "PID"
+msgstr "کد فرآیند (PID)"
+
+#: wp-bizotop.php:54
+msgid ""
+"This wordpress plugin helps you to use Bizotop capabilities on your blog."
+msgstr ""
+"این پلاگین وردپرس به شما کمک میکند تا از قابلیت های نرم افزار بیزوتاپ در "
+"وبلاگ خود بهره ببرید."
+
+#: wp-bizotop.php:55
+msgid "Raya Navid Samaneh"
+msgstr "رایا نوید سامانه"
